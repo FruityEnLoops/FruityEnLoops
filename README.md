@@ -12,9 +12,10 @@ To contact me, you can probably find me on [Twitter](https://twitter.com/FruityE
 
 I mainly use :
 - Java
-- J2EE
+- PHP
+- most common web framework
 
-but I also have basic knowledge of Python, C, Bash for scripting, Typescript / Javascript and web languages.
+but I also have basic knowledge of Python, C and Bash for scripting.
 
 I run Linux on my laptop for schoolwork and love it. I still can't get away from Windows for my more "gaming" setup, but if I could, I would.
 
