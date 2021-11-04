@@ -21,8 +21,7 @@ I currently use Debian 11.
 ## Current projects
 
 - [IdlescapePresence](https://github.com/FruityEnLoops/IdlescapePresence) : A rich presence implementation for Idlescape, made for PreMiD. Displays your current activity, your username, your league, and your level as well as icons based on your activity, directly in Discord.
-- [HoursAndCounting](https://github.com/FruityEnLoops/HoursAndCounting) : A discord bot to display schedules. It was a project I made for my DUT's Discord server, to let users with different groups to easily see their schedules and their friend's schedules without having to navigate the outdated and slow website made for our time tables.
-- [TimeRunner](https://github.com/FruityEnLoops/TimeRunner) : A basic timer for tasks, which lets you see tasks in a more graphic way, made with JavaFX as a school project.
+- [HoursAndCounting-js](https://github.com/FruityEnLoops/HoursAndCounting-js) : A discord bot to display schedules. It was a project I made for my DUT's Discord server, to let users with different groups to easily see their schedules and their friend's schedules without having to navigate the outdated and slow website made for our time tables. This is a rewrite of [HoursAndCounting](https://github.com/FruityEnLoops/HoursAndCounting), which was written in Java. I wanted to have a more flexible (and clean) code base, so I started from scratch.
 
 ## Personal interests
 
