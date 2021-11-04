@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am FruityEnLoops, also known as blobdash. I am currently studying at Lille's IUT A, and I like doing little projects from time to time, you can find most of them here. You can also find [my dotfiles and various scripts](https://github.com/FruityEnLoops/scripts) in my scripts repository.
+I am FruityEnLoops, also known as blobdash. I am a student in computer science, and I like doing little projects from time to time, you can find most of them here.
 
 [A quick access to all my socials / links](https://blobdash.carrd.co/)
 
@@ -13,13 +13,10 @@ To contact me, you can probably find me on [Twitter](https://twitter.com/FruityE
 I mainly use :
 - Java
 - PHP
-- most common web framework
+- Node, mostly for backend
+- basic knowledge of Python, C and Bash
 
-but I also have basic knowledge of Python, C and Bash for scripting.
-
-I run Linux on my laptop for schoolwork and love it. I still can't get away from Windows for my more "gaming" setup, but if I could, I would.
-
-My laptop currently runs Fedora.
+I currently use Debian 11.
 
 ## Current projects
 
@@ -29,6 +26,6 @@ My laptop currently runs Fedora.
 
 ## Personal interests
 
-- Music. I listen to music pretty much all the time, as you can see on my [last.fm account](https://www.last.fm/user/blobdash). I listen to japanese doujin music, french rap, and a lot of other stuff. I also create music, available on most streaming services and my [Soundcloud](https://soundcloud.com/blobdash) and [Bandcamp](https://blobdash.bandcamp.com/).
+- Music. I listen to music pretty much all the time, as you can see on my [last.fm account](https://www.last.fm/user/blobdash). I listen to some weird stuff, you're warned. I also create music, available on most streaming services and my [Soundcloud](https://soundcloud.com/blobdash) and [Bandcamp](https://blobdash.bandcamp.com/).
 
-- Games. I play mostly rhythm games, such as [beatoraja](https://github.com/exch-bms2/beatoraja/). I also am interested in arcade rhythm games, which are sadly very niche in France. I also play FPS games like Call of Duty or Counter Strike, and I like to try out new games, even if they're not my usual kind of games.
+- Games. I play mostly rhythm games, such as [beatoraja](https://github.com/exch-bms2/beatoraja/). I also play FPS games like Apex Legends, Call of Duty (mostly zombies, let's be honest) and the other classic ones.
