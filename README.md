@@ -6,7 +6,7 @@ I am FruityEnLoops, also known as blobdash. I am a student in computer science, 
 
 [A quick access to all my socials / links](https://blobdash.carrd.co/)
 
-To contact me, you can probably find me on [Twitter](https://twitter.com/FruityEnLoops), or on Discord (`FruityEnLoops#6142`). For more professional inquiries, you can email me at fruityenloops (at) gmail.com.
+To contact me, you can probably find me on [Twitter](https://twitter.com/FruityEnLoops), or on Discord (`blobdash#6142`). For more professional inquiries, you can email me at blobdash (at) protonmail.com.
 
 ## What do you use?
 
