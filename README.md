@@ -2,13 +2,13 @@
 
 ## Who am I?
 
-I am FruityEnLoops, also known as blobdash.
+I am blobdash, f.k.a. FruityEnLoops.
 
 [A quick access to all my socials / links](https://blobdash.carrd.co/)
 
-To contact me, you can probably find me on [Twitter](https://twitter.com/FruityEnLoops), or on Discord (`blobdash#6142`). For more professional inquiries, you can email me at blobdash (at) protonmail.com.
+To contact me, you can probably find me on [Twitter](https://twitter.com/FruityEnLoops), or on Discord (`blobdash`). For more professional inquiries, you can email me at blobdash (at) protonmail.com.
 
-## What do you use?
+## Technos
 
 Past experiences :
 - Java (mostly oriented at Spring, JDBC, database/backend oriented)
@@ -17,7 +17,7 @@ Past experiences :
 - PHP
 - basic knowledge of C
 
-I currently use Debian 11.
+I currently use Debian for desktop and server use.
 
 ## Current projects
 
